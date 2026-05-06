@@ -8,7 +8,7 @@
 
 **[Read the documentation](https://www.pledger.io)**
 
------------------------
+----------------------- 
 
 ## About Pledger.io
 Pledger.io is a "self hosted" application that helps in keeping track of your personal finances. 
